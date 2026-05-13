@@ -1,6 +1,0 @@
-Change Component Footprint: Designator=P1 Old Footprint=2x1 2.54mm F New Footprint=2x1 2.54mm M
-Change Component Footprint: Designator=P2 Old Footprint=2x1 2.54mm F New Footprint=2x1 2.54mm M
-Change Component Footprint: Designator=P3 Old Footprint=2x1 2.54mm F New Footprint=2x1 2.54mm M
-Change Component Footprint: Designator=P4 Old Footprint=2x1 2.54mm F New Footprint=2x1 2.54mm M
-Added Rule: Name=Schematic Supply Nets_6
-Added Rule: Name=Schematic Supply Nets_7
